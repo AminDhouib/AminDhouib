@@ -1,17 +1,18 @@
-![Greetings](https://github.com/MohamedBechirMejri/MohamedBechirMejri/blob/main/header.svg)
-
-<!-- <p align="center">
-<img src="https://count.getloli.com/get/@MohamedBechirMejri" />
-</p> -->
-<p align="center">
-<img src="https://visitor-count-b8lb.vercel.app/api/AminDhouib" />
-</p>
-
 <details open>
   <summary> <b>About Me</b>: </summary>
 
-- 5 years ago, I ate a [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit "Devil Fruits are mysterious, distinctive fruits scattered throughout the world, known for granting their eaters permanent superhuman powers and an equally permanent inability to swim.") (Devu Devu no Mi) and it turned me into a Full-Stack Engineer.
-- Since then, I have been proficient in many technologies:
+- 🧑‍💻 I have 6 years of software engineering experience, focusing primarily on web automation and development (frontend, backend, and infrastructure). I have mainly worked with startups, developing my fast-paced delivery and nature.
+- 🚀 I love to optimize my life to the fullest, be in the best health, and be incredibly productive. I love to push people to become their best by making motivational content:  
+
+  <table>
+  <tr>
+    <td><a href="https://www.youtube.com/@amin_dhou/videos"><img src="https://img.shields.io/badge/Watch-Amin's%20Motivational%20Content-blue?style=for-the-badge&logo=youtube" /></a></td>
+  </tr>
+</table>
+
+<br></br>
+<summary> <b>My Problem-Solving Tools</b>: </summary>
+<br></br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,14 +54,12 @@
 
 </details>
 
+<br></br>
+
 <details open>
   <summary> <b>Stats</b>: </summary>
 <a href='https://git.io/streak-stats' align="center" width="100%">
     <img style='width:100%;' src='https://streak-stats.demolab.com?user=AminDhouib&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=44C394&sideLabels=888888&background=FFFFFF00&ring=44C394&fire=44C394&currStreakNum=888888&sideNums=888888&currStreakLabel=44C394&dates=888888' />
-</a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
-    <img style='width:60%;' src='https://github-readme-stats-kohl-one.vercel.app/api?username=AminDhouib&show_icons=true&count_private=true&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true&rank_icon=percentile&include_all_commits=false&show=reviews,prs_merged_percentage' />
-</a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
-    <img style='width:39%;' src='https://github-readme-stats-kohl-one.vercel.app/api/top-langs/?username=AminDhouib&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
 </a>
 
 </details>
@@ -68,6 +67,8 @@
 <!-- TODO: Add cv download link -->
 
 <details open>
+    <br></br>
+
   <summary> <b>Connect With Me</b>: </summary>
 
 [![Outlook](https://img.shields.io/badge/Outlook-0a7dd8?style=for-the-badge&logo=outlook&logoColor=white)](mailto:amin.dhouib@outlook.com)

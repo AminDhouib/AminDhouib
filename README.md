@@ -9,8 +9,11 @@
     <td><a href="https://www.youtube.com/@amin_dhou/videos"><img src="https://img.shields.io/badge/Watch-Amin's%20Motivational%20Content-blue?style=for-the-badge&logo=youtube" /></a></td>
   </tr>
 </table>
-
 <br></br>
+</details>
+
+
+<details open>
 <summary> <b>My Problem-Solving Tools</b>: </summary>
 <br></br>
 
@@ -52,9 +55,10 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+<br></br>
 </details>
 
-<br></br>
+
 
 <details open>
   <summary> <b>Stats</b>: </summary>

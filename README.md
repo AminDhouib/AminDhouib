@@ -3,7 +3,7 @@
 
 - Check out my best projects here: 
   - 📚 https://unotes.net
-  - 🐱 https://aishorty.com
+  - ▶️ https://aishorty.com
   - ✅ https://nowgetitdone.com
   - #️⃣ https://usepostify.com
   - ☁️ https://useupup.com

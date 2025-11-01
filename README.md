@@ -3,7 +3,11 @@
 
 - Check out my best projects here: 
   - 📚 https://unotes.net
-  - 🐱 https://shortee.ai
+  - 🐱 https://aishorty.com
+  - ✅ https://nowgetitdone.com
+  - #️⃣ https://usepostify.com
+  - ☁️ https://useupup.com
+  
 - 🧑‍💻 I have 7 years of software engineering experience, focusing primarily on web automation and development (frontend, backend, and infrastructure). I have mainly worked with startups, developing my fast-paced delivery and nature.
 - 🚀 I love to optimize my life to the fullest, be in the best health, and be incredibly productive. I love to push people to become their best by making motivational content:  
 
